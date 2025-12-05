@@ -88,7 +88,7 @@ Complete document describing scope, strategy, test types, environments, entry/ex
   [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge)](https://github.com/marcolob/cypress-e2e-automation-framework)  
 
 - Basic Playwright examples for Web & Mobile testing  
-- CI/CD integration examples  workflow eg. [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge)](https://github.com/marcolob/cypress-e2e-automation-framework/tree/main/.github/workflows) 
+- CI/CD integration examples [FT Checklists](https://github.com/marcolob/cypress-e2e-automation-framework/tree/main/.github/workflows) 
 
 ### ✔️ API Tests (Postman)
 - Collection examples  
