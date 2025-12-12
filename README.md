@@ -2,7 +2,7 @@
 
 [![Live Preview](https://img.shields.io/badge/Live-Preview-blue?style=flat-square)](https://marcolob.github.io/QA-Portfolio-Hub/)
 
-A complete QA Manual & Automation testing portfolio showcasing real-world documentation, test cases, bug reports, manual & automation testing, API validations, and structured test strategies.  
+A complete QA Manual & Automation testing portfolio showcasing real-world documentation, test cases, bug reports, manual & automation tests, API validations, and structured test strategies.  
 
 ---
 
