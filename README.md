@@ -87,7 +87,7 @@ Complete document describing scope, strategy, test types, environments, entry/ex
   Full-stack web application automation framework with structured test suites and CI/CD integration.  
   [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge)](https://github.com/marcolob/cypress-e2e-automation-framework)  
 
-- Basic Playwright examples for Web & Mobile testing  
+- Basic Playwright examples for Web & Mobile testing (available soon)
 - CI/CD integration examples [FRAMEWORK](https://github.com/marcolob/cypress-e2e-automation-framework/tree/main/.github/workflows) 
 
 ### ✔️ API Tests (Postman)
