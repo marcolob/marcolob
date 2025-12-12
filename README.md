@@ -95,7 +95,8 @@ Complete document describing scope, strategy, test types, environments, entry/ex
 - TestRail-like mapping  
 - Request → Response validation  
 - JSON schema testing  
-- **QA-user-onboarding-system DEMO**
+- **QA-user-onboarding-system DEMO**:
+Demo project showcasing API validation with Postman, mock server simulation, and manual UI/UX test cases.
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge)](https://github.com/marcolob/QA-user-onboarding-system)
 
 ### ✔️ Bug Reports
