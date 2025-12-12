@@ -105,7 +105,7 @@ Complete document describing scope, strategy, test types, environments, entry/ex
   - [GitHub Repository](https://github.com/marcolob/QA-user-onboarding-system)  
   - [Mock Server Demo](https://mp76eac450f43f648d29.free.beeceptor.com)  
   - [Postman Collection](https://github.com/marcolob/QA-user-onboarding-system/tree/main/QA-user-onboarding-system/postman)  
-  - Test Cases & Screenshots (folder ready to populate)  
+  - [Test Cases & Screenshots](https://github.com/marcolob/QA-user-onboarding-system/blob/main/QA-user-onboarding-system/onboarding_testcases.csv)   
 
   **Screenshots:**  
   Folder structure ready for screenshots to be added later.
