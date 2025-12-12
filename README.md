@@ -95,7 +95,8 @@ Complete document describing scope, strategy, test types, environments, entry/ex
 - TestRail-like mapping  
 - Request → Response validation  
 - JSON schema testing  
--[![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge)](https://github.com/marcolob/QA-user-onboarding-system)
+- **QA-user-onboarding-system DEMO**
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge)](https://github.com/marcolob/QA-user-onboarding-system)
 
 ### ✔️ Bug Reports
 Each bug includes:
