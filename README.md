@@ -8,7 +8,7 @@ This repository simulates a production-level QA workflow for both **web and mobi
 ---
 
 ## 🚀 About Me
-I am a QA Manual & Automation engineer with hands-on experience in:
+I'm a QA Manual & Automation engineer with hands-on experience in:
 
 - Functional & regression testing  
 - Non-functional testing (Performance, Usability, Compatibility)  
