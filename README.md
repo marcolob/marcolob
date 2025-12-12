@@ -2,8 +2,7 @@
 
 [![Live Preview](https://img.shields.io/badge/Live-Preview-blue?style=flat-square)](https://marcolob.github.io/QA-Portfolio-Hub/)
 
-A complete QA Manual & Automation testing portfolio showcasing real-world documentation, test cases, bug reports, API validations, and structured test strategies.  
-This repository simulates a production-level QA workflow for both **web and mobile applications**, now including a **functional testing section**, **non-functional testing**, and **two Cypress automation projects**.
+A complete QA Manual & Automation testing portfolio showcasing real-world documentation, test cases, bug reports, manual & automation testing, API validations, and structured test strategies.  
 
 ---
 
