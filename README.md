@@ -24,12 +24,6 @@ This portfolio demonstrates how I approach QA in a structured and professional w
 
 ---
 
-## 🌐 Live Portfolio
-Check the live version on GitHub Pages:  
-[![Open in browser](https://img.shields.io/badge/Live-Portfolio-blue?style=for-the-badge)](https://marcolob.github.io/QA-Portfolio-Hub/)
-
----
-
 ## 📂 Repository Structure
 
 QA-Portfolio-Hub/
