@@ -118,7 +118,7 @@ Each bug includes:
 - Pre-release checklist  
 - Smoke checklist  
 
-### ✔️ Functional Testing (Updated)
+### ✔️ Functional Testing
 - **Index**: [FT Index](https://marcolob.github.io/QA-Portfolio-Hub/docs/functional_testing/FT_index.html) – Overview of all functional testing documents  
 - **Bug Reports**: [FT Bug Reports](https://marcolob.github.io/QA-Portfolio-Hub/docs/functional_testing/FT_Bug_Reports.html) – Detailed bug reports with steps, severity, priority, TestRail/Jira links  
 - **Checklists**: [FT Checklists](https://marcolob.github.io/QA-Portfolio-Hub/docs/functional_testing/FT_Checklists.html) – Pre-release, regression, smoke test checklists  
